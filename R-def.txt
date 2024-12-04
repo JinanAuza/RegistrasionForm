@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+array fakultas_array
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonRegister
+id buttonReset
+id inputEmail
+id inputJurusan
+id inputNIM
+id inputNama
+id inputPhone
+id spinnerFakultas
+id textEmail
+id textFakultas
+id textJurusan
+id textNIM
+id textNama
+id textPhone
+layout activity_main
+layout activity_summary
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.RegistrationForm
+style Theme.RegistrationForm
+xml backup_rules
+xml data_extraction_rules
